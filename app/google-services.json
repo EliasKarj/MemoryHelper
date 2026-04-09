@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289862530829",
+    "project_id": "muistikaveri",
+    "storage_bucket": "muistikaveri.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289862530829:android:0404aae46a9b257a5ba244",
+        "android_client_info": {
+          "package_name": "com.example.muistikaveri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe6jBie9AsIFfb26pydXMST35TlOgshDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
